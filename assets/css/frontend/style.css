@@ -1,0 +1,16 @@
+div.hq60-plugin-container{padding-left:10px;padding-right:10px}
+div.hq60-plugin-container>div.hq60-user-menu{width:33%;margin-right:10px;float:left}
+div.hq60-plugin-container>div.hq60-main-window-container{width:66%;float:left}
+/** USER MENU */
+div.hq60-plugin-container>div.hq60-user-menu>ul{list-style:none;padding-left:0px}
+div.hq60-plugin-container>div.hq60-user-menu>ul>li>a{background-color:#eee;color:#111;display:block;text-align:center;padding:10px;font-size:120%;font-weight:bold}
+div.single-balance-container{background-color:#eee;padding:15px 50px;width:50%;margin:0 auto;text-align:center}
+div.single-balance-container>p{color:#347C2C;font-weight:bold;font-size:350%;margin-bottom:2px;line-height:100%}
+div.single-balance-container>p+p{color:#347C2C;font-weight:bold;font-size:120%}
+ul.list-menu-campaign{list-style:none;padding-left:0px}
+ul.list-menu-campaign>li>a{background-color:#eee;color:#111;display:block;text-align:center;padding:10px;font-size:120%;font-weight:bold}
+/** TRANSACTIONS */
+table.table-transaction{margin-top:10px}
+table.table-transaction th,table.table-transaction td{text-align:right;border-left:none;border-right:none}
+.table-transaction .positive-number,.table-transaction .negative-number{color:#347C2C;font-weight:bold;font-size:130%}
+.table-transaction .negative-number{color:#333;font-size:110%}
